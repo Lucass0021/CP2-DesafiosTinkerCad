@@ -31,10 +31,10 @@ Nesse Checkpoint foram realizados quatro exercícios envolvendo circuitos elétr
 
 ## Sumário
 
-- [Exercício-1](Exercício-1)
-- [Exercício-2](Exercício-2)
-- [Exercício-3](Exercício-3)
-- [Exercício-4](Exercício-4)
+- [Exercício-1](Exercícios/Exercício-1)
+- [Exercício-2](Exercícios/Exercício-2)
+- [Exercício-3](Exercícios/Exercício-3)
+- [Exercício-4](Exercícios/Exercício-4)
 
 ---
 
